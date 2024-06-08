@@ -13,4 +13,4 @@ public class palindromenumbers {
         }
         System.out.println(x);
     }
-}caasdkjbsdas
+}
